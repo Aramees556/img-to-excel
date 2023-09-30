@@ -13,4 +13,4 @@ COPY png_to_excel.py png_to_excel.py
 
 # Command to run on container start. 
 # Here, we'll simply execute the Python script.
-CMD ["python", "./png_to_excel.py"]
+CMD ["python", "./img_to_excel.py"]
