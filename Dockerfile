@@ -9,7 +9,7 @@ COPY requirements.txt requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the script into the container.
-COPY png_to_excel.py png_to_excel.py
+COPY img_to_excel.py img_to_excel.py
 
 # Command to run on container start. 
 # Here, we'll simply execute the Python script.
