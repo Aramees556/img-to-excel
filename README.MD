@@ -12,8 +12,8 @@ This utility allows you to convert a images to an Excel sheet, where the backgro
 
 1. Clone this repository:
    ```bash
-   git clone [repository_url]
-   cd [repository_folder_name]
+   git clone https://github.com/Aramees556/img-to-excel
+   cd img-to-excel
    ```
 
 2. Build the Docker image:
